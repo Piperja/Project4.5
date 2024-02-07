@@ -1,1 +1,45 @@
 /* Add screen styles below */
+body {
+    background: #07020D;
+}
+
+h1 {
+    background: #5DB7DE;
+    color:#07020D;
+    margin: 0 auto;
+    padding: 20px;
+    font-family:'Karma';font-size: 48px;
+
+}
+
+h2 {
+    color: #F1E9DB;
+    font-family: 'Karma'; font-size: 30px;
+    margin-left: 350px;
+    margin-top: 200px;
+    margin-right: 200px;
+
+}
+
+h3{
+    color:#F1E9DB;
+    font-family: 'Karma'; font-size: 20px;
+}
+
+div {
+    color:#F1E9DB;
+    font-family: 'Karma'; font-size: 15px;
+    margin-top: 50px;
+    margin-left: 350px;
+    width: 400px;
+    height: 400px;
+}
+
+p {
+    
+}
+
+img {
+    float: left;
+    padding: 20px;
+}
